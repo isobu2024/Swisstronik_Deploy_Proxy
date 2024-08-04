@@ -3,7 +3,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/seputartestnet/Swisstronik_Proxy
+git clone https://github.com/shukakuairdrop/Swisstronik_Deploy_Proxy
 ```
 
 ```bash
