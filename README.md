@@ -76,3 +76,20 @@ npm run upgrade
 - Open tx-hash.txt file (location in utils folder)
 - Copy the transaction hash link and paste the address into testnet dashboard(Point3)
 - No need push to github
+
+ #how to push ? 
+```bash
+git init
+```
+```bash
+git add .
+```
+```bash
+git remote set-url origin ( Link Repository )
+```
+```bash
+git branch -M main
+```
+```bash
+git push -u origin main
+```
